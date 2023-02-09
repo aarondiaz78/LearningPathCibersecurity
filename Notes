@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Ethical Hacking Course (15 Hours)</title>
+	<link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+<h1>¿Cómo es el día a día de un Pentester?</h1>
+<h2>Ataques más comunes que pueden ser encomendados a un Pentester:</h2>
+<h3>1.External Network Pentest</h3>
+<p>Una tarea de pentesting de una red externa consiste el el hackeo de una empresa, organización o persona desde fuera, da igual donde esté esa empresa situada, este tipo de tareas tienen mucho que ver con lo que es llamado inteligencia Open Source o OSINT.</p>
+<p>Al realizar prácticas OSINT lo que se pretende es recopilar la máxima información posible del objetivo, informaciones tales como el formato e-mail de la empresa, empleados, números de teléfono etc.</p>
+<h3>2.Internal Network Pentest</h3>
+<p>Una tarea de pentesting de red interna consiste en el hackeo de una empresa una vez ya estamos dentro de la red de esa empresa, esto se puede haber conseguido mediante phising consiguiendo que alguien clicase en un enlace malicioso o cayese en algún tipo de trampa que nos permitiese estar dentro de la red.</p>
+<p>Este tipo de ataques tienen mucho que ver con Active Directory por lo cual es importante conocer en que consiste.</p>
+<h3>3.Web Application Pentest</h3>
+<p>Este tipo de tareas consisten en el ataque a páginas web de empresas o instituciones que quieran probar la seguridad de sus webs.</p>
+<p>Es importante familiriarizarse con "Web Application Security Proyect" y con los "Top Ten OWASP" para comprender bien la seguridad de las webs y conocer los ataques más comunes.</p>
+<h3>4.Wireless Network Pentest</h3>
+<p>Otra de las tareas que pueden ser encomendadas a los Hackers son los ataques a redes inalámbricas, este es el tipo de ataques más "sencillos", muchos hackers comienzan su aprendizaje hackeando redes inalámbricas.</p>
+<p>Debemos saber que tener un adaptador de red inalámbrica podría facilitarnos mucho el trabajo en este campo del hacking.</p>
+<h3>Physical Pentest & Social Engineering</h3>
+<p>Este tipo de tareas como bien indica el nombre consisten literalmente en atacar de forma física a nuestro objetivo, trataremos de entrar de la organización que se nos proponga, este tipo de ataques pueden estar combinados con ataques externos para facilitarnos el trabajo, la ingeniería social juega un importante papel en este tipo de ataques.</p>
+<h2>Report Writing (Post-Attack)</h2>
+<p>Después de haber realizado un ataque es de vital importancia compartir con el resto del equipo la información obtenida, por ello es necesario realizar dos tipos de reportes, uno técnico el cual será dirigido para los miembros del sector IT en el cual detallaremos lo que hemos encontrado al realizar el ataque, en este reporte se suele también proporcionar ayuda aconsejando al resto de compañeros que es lo que se debe reforzar, que es lo que se debe arreglar y en que cosas se debe tener especial cuidado.
+El segundo reporte que debemos realizar irá dirigido a un público no técnico, es decir, personas que no tienen conocimiento especializado y que debemos explicarles de forma generalizada y sencilla que es lo que hemos hecho durante el ataque y que resultados hemos obtenido.</p>
+<h2>Debrief</h2>
+</body>
+
